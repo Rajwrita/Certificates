@@ -14,4 +14,4 @@ Completed courses links:
       2. [Introduction to CSS3](https://www.coursera.org/account/accomplishments/verify/F54XMVQS4MMQ?utm_source=link&utm_campaign=copybutton_certificate)
       3. [Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/verify/P49U9AJE3MBM?utm_source=link&utm_campaign=copybutton_certificate)
       4. [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/verify/HS7LQQLH6UAS?utm_source=link&utm_campaign=copybutton_certificate)
-
+7. [A Crash Course in Data Science](https://www.coursera.org/account/accomplishments/verify/J5NLT2DUKV65?utm_source=link&utm_campaign=copybutton_certificate)
