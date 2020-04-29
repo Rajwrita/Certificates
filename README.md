@@ -7,7 +7,7 @@ Completed courses links:
 5. [Introduction to Scripting in Python]()
       1. [Python Programming Essentials](https://coursera.org/share/78c03a6fd6421bd8ddcdcebd38584076)
       2. [Python Data Representations](https://coursera.org/share/d6a09add09fc9e1b96fe8496bba146db)
-      3. Python Data Analysis
+      3. [Python Data Analysis](https://www.coursera.org/account/accomplishments/verify/D52KW9C95LH9?utm_source=link&utm_campaign=copybutton_certificate)
       4. [Python Data Visualization](https://coursera.org/share/8ca948c39cfcecb37af087d5b556d3c6)
 6. Web Design for Everybody: Basics of Web Development & Coding
       1. [Introduction to HTML5](https://www.coursera.org/account/accomplishments/verify/4MCRLZ3SX6BD?utm_source=link&utm_campaign=copybutton_certificate)
