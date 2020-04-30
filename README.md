@@ -21,5 +21,6 @@ Completed courses links:
       3. [Structuring Machine Learning Projects]()
       4. [Convolutional Neural Networks]()
       5. [Sequence Models]()
+9. [Effective Problem-Solving and Decision-Making]()
+10. [Text Mining in Python]()
  
- 9. 
