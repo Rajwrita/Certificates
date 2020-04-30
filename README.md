@@ -16,11 +16,11 @@ Completed courses links:
       4. [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/verify/HS7LQQLH6UAS?utm_source=link&utm_campaign=copybutton_certificate)
 7. [A Crash Course in Data Science](https://www.coursera.org/account/accomplishments/verify/J5NLT2DUKV65?utm_source=link&utm_campaign=copybutton_certificate)
 8. Deep Learning Specialization
-      1. [Neural Networks and Deep Learning]()
-      2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization]()
-      3. [Structuring Machine Learning Projects]()
-      4. [Convolutional Neural Networks]()
-      5. [Sequence Models]()
-9. [Effective Problem-Solving and Decision-Making]()
+      1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/E8NV4UGT3FPD?utm_source=link&utm_campaign=copybutton_certificate)
+      2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/VWSXTE7QV463?utm_source=link&utm_campaign=copybutton_certificate)
+      3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/KGXCUWB8AN5H?utm_source=link&utm_campaign=copybutton_certificate)
+      4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/X88D9B2TPKU9?utm_source=link&utm_campaign=copybutton_certificate)
+      5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/9DDJ8VKGAQ3Z?utm_source=link&utm_campaign=copybutton_certificate)
+9. [Effective Problem-Solving and Decision-Making](https://www.coursera.org/account/accomplishments/verify/ZLDZA44GML2E?utm_source=link&utm_campaign=copybutton_certificate)
 10. [Text Mining in Python]()
  
