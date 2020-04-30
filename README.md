@@ -15,3 +15,11 @@ Completed courses links:
       3. [Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/verify/P49U9AJE3MBM?utm_source=link&utm_campaign=copybutton_certificate)
       4. [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/verify/HS7LQQLH6UAS?utm_source=link&utm_campaign=copybutton_certificate)
 7. [A Crash Course in Data Science](https://www.coursera.org/account/accomplishments/verify/J5NLT2DUKV65?utm_source=link&utm_campaign=copybutton_certificate)
+8. Deep Learning Specialization
+      1. [Neural Networks and Deep Learning]()
+      2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization]
+      3. [Structuring Machine Learning Projects]()
+      4. [Convolutional Neural Networks]()
+      5. [Sequence Models]()
+ 
+ 9. 
