@@ -22,5 +22,5 @@ Completed courses links:
       4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/X88D9B2TPKU9?utm_source=link&utm_campaign=copybutton_certificate)
       5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/9DDJ8VKGAQ3Z?utm_source=link&utm_campaign=copybutton_certificate)
 9. [Effective Problem-Solving and Decision-Making](https://www.coursera.org/account/accomplishments/verify/ZLDZA44GML2E?utm_source=link&utm_campaign=copybutton_certificate)
-10. [Text Mining in Python]()
+10. [Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/YDXUQJWEBQ6P?utm_source=link&utm_campaign=copybutton_certificate)
  
