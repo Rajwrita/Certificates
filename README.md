@@ -24,5 +24,5 @@ Completed courses links:
 9. [Effective Problem-Solving and Decision-Making](https://www.coursera.org/account/accomplishments/verify/ZLDZA44GML2E?utm_source=link&utm_campaign=copybutton_certificate)
 10. [Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/YDXUQJWEBQ6P?utm_source=link&utm_campaign=copybutton_certificate)
 11. [Introduction to Programming with MATLAB](https://www.coursera.org/account/accomplishments/verify/ZWQ3NUJEP7P6?utm_source=link&utm_campaign=copybutton_certificate)
-12. [Technical Writing]()
+12. [Technical Writing](https://www.coursera.org/account/accomplishments/verify/MCA5NA256U7N?utm_source=link&utm_campaign=copybutton_certificate)
  
