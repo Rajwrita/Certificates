@@ -23,4 +23,5 @@ Completed courses links:
       5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/9DDJ8VKGAQ3Z?utm_source=link&utm_campaign=copybutton_certificate)
 9. [Effective Problem-Solving and Decision-Making](https://www.coursera.org/account/accomplishments/verify/ZLDZA44GML2E?utm_source=link&utm_campaign=copybutton_certificate)
 10. [Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/YDXUQJWEBQ6P?utm_source=link&utm_campaign=copybutton_certificate)
+11. [Introduction to Programming with MATLAB](https://www.coursera.org/account/accomplishments/verify/ZWQ3NUJEP7P6?utm_source=link&utm_campaign=copybutton_certificate)
  
