@@ -4,7 +4,7 @@ Completed courses links:
 2. [Introduction to Big Data](https://coursera.org/share/48ed0962e88ba81b75eae356dbe2f4f8)
 3. [Introduction to Data Science in Python](https://coursera.org/share/18e957edd61cde0fcd6de6680cf27d71)
 4. [The Data Scientist's Toolbox](https://coursera.org/share/1cc91e3ce78b7d130a2d7ebca11cb879)
-5. [Introduction to Scripting in Python]()
+5. Introduction to Scripting in Python
       1. [Python Programming Essentials](https://coursera.org/share/78c03a6fd6421bd8ddcdcebd38584076)
       2. [Python Data Representations](https://coursera.org/share/d6a09add09fc9e1b96fe8496bba146db)
       3. [Python Data Analysis](https://www.coursera.org/account/accomplishments/verify/D52KW9C95LH9?utm_source=link&utm_campaign=copybutton_certificate)
