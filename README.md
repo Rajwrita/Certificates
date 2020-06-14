@@ -27,8 +27,8 @@ Completed courses links:
 12. [Technical Writing](https://www.coursera.org/account/accomplishments/verify/MCA5NA256U7N?utm_source=link&utm_campaign=copybutton_certificate)
 13. [RESTful API with HTTP and JavaScript](https://www.coursera.org/account/accomplishments/verify/XYMJCKSA2VGH?utm_source=link&utm_campaign=copybutton_certificate)
 14. [API Design and Fundamentals of Google Cloud's
-Apigee API Platform] (https://www.coursera.org/account/accomplishments/verify/9HFLRMRCS8DN?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course)
+Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/9HFLRMRCS8DN?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course)
 15. AI for medicine
       1. [AI for Medical Diagnosis](https://coursera.org/share/bb05572f96c53dd3ad0cca8a6fab3f55)
-      2. [AI for Medical Prognosis]()
+      2. [AI for Medical Prognosis](https://coursera.org/share/5592db0ed025c39534df007f36318626)
       3. [AI for Medical Treatment]()
