@@ -34,3 +34,4 @@ Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/9HF
       3. [AI for Medical Treatment]()
 16. Tensorflow in Practice 
       1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/236e6f7d933705c558dc649d0157097c)
+      2. [Convolutional Neural Networks in Tensorflow](https://coursera.org/share/9dbdf696dc8119bc441b8df8ca38b955)
