@@ -31,7 +31,8 @@ Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/9HF
 15. AI for medicine
       1. [AI for Medical Diagnosis](https://coursera.org/share/bb05572f96c53dd3ad0cca8a6fab3f55)
       2. [AI for Medical Prognosis](https://coursera.org/share/5592db0ed025c39534df007f36318626)
-      3. [AI for Medical Treatment]()
 16. Tensorflow in Practice 
       1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/236e6f7d933705c558dc649d0157097c)
       2. [Convolutional Neural Networks in Tensorflow](https://coursera.org/share/9dbdf696dc8119bc441b8df8ca38b955)
+      3. [Natural Language Processing in TensorFlow](https://coursera.org/share/20574701a98d40c9693a6c408cac9a8a)
+      4. [Sequences, Time Series and Prediction ](https://coursera.org/share/8789822bdfddced293aeb548fd50eb3c)
