@@ -37,3 +37,4 @@ Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/9HF
       3. [Natural Language Processing in TensorFlow](https://coursera.org/share/20574701a98d40c9693a6c408cac9a8a)
       4. [Sequences, Time Series and Prediction ](https://coursera.org/share/8789822bdfddced293aeb548fd50eb3c)
 17. [Natural Language Processing with Classification and Vector Spaces](https://coursera.org/share/5aa066bcfebf0144e2590df2121fcae2)
+18. [30 Days of Google Cloud](https://events.withgoogle.com/30daysofgooglecloud/)
