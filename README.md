@@ -4,7 +4,7 @@ Completed courses links:
 2. [Introduction to Big Data](https://coursera.org/share/48ed0962e88ba81b75eae356dbe2f4f8)
 3. [Introduction to Data Science in Python](https://coursera.org/share/18e957edd61cde0fcd6de6680cf27d71)
 4. [The Data Scientist's Toolbox](https://coursera.org/share/1cc91e3ce78b7d130a2d7ebca11cb879)
-5. Introduction to Scripting in Python
+5. [Introduction to Scripting in Python](https://coursera.org/share/641c539d3f5200add5df2f895352bdea)
       1. [Python Programming Essentials](https://coursera.org/share/78c03a6fd6421bd8ddcdcebd38584076)
       2. [Python Data Representations](https://coursera.org/share/d6a09add09fc9e1b96fe8496bba146db)
       3. [Python Data Analysis](https://www.coursera.org/account/accomplishments/verify/D52KW9C95LH9?utm_source=link&utm_campaign=copybutton_certificate)
@@ -15,7 +15,7 @@ Completed courses links:
       3. [Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/verify/P49U9AJE3MBM?utm_source=link&utm_campaign=copybutton_certificate)
       4. [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/verify/HS7LQQLH6UAS?utm_source=link&utm_campaign=copybutton_certificate)
 7. [A Crash Course in Data Science](https://www.coursera.org/account/accomplishments/verify/J5NLT2DUKV65?utm_source=link&utm_campaign=copybutton_certificate)
-8. Deep Learning Specialization
+8. [Deep Learning Specialization](https://coursera.org/share/c28bbe7358040f8ee610ecf4f072af08)
       1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/E8NV4UGT3FPD?utm_source=link&utm_campaign=copybutton_certificate)
       2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/VWSXTE7QV463?utm_source=link&utm_campaign=copybutton_certificate)
       3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/KGXCUWB8AN5H?utm_source=link&utm_campaign=copybutton_certificate)
