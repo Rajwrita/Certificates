@@ -38,4 +38,6 @@ Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/9HF
       4. [Sequences, Time Series and Prediction ](https://coursera.org/share/8789822bdfddced293aeb548fd50eb3c)
 17. [Natural Language Processing with Classification and Vector Spaces](https://coursera.org/share/5aa066bcfebf0144e2590df2121fcae2)
 18. [30 Days of Google Cloud](https://events.withgoogle.com/30daysofgooglecloud/)
-19. [DSC Lead certificate](https://dsc-certify.web.app/c/C6C1187EB048)
+# Randoms
+1. [DSC Lead certificate](https://dsc-certify.web.app/c/C6C1187EB048)
+2. [Grand Idea Challenge- ISB](https://drive.google.com/file/d/1y2h7zXpCUjdLdoEZc4_l_VnFxoXmK8NL/view?usp=sharing)
