@@ -40,4 +40,4 @@ Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/9HF
 18. [30 Days of Google Cloud](https://events.withgoogle.com/30daysofgooglecloud/)
 # Randoms
 1. [DSC Lead certificate](https://dsc-certify.web.app/c/C6C1187EB048)
-2. [Grand Idea Challenge- ISB](https://drive.google.com/file/d/1y2h7zXpCUjdLdoEZc4_l_VnFxoXmK8NL/view?usp=sharing)
+2. [Grand Idea Challenge- ISB](https://drive.google.com/file/d/1GcDeCFieJLL9i14Fj8Kjf6awNXPmkZI6/view?usp=sharing)
